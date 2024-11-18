@@ -1,0 +1,40 @@
+.categories{
+    padding: 94px 0;
+    background-color: #142941;
+}
+.categories h1{
+    font-size: 42px;
+    font-weight: 700;
+    color: #FFFFFF;
+    width: max-content;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+.categories .click{
+    width: max-content;
+    font-family: "Poppins", sans-serif;
+    color: #D9ECFF;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0 auto;
+    padding-bottom: 56px;
+}
+.categories .content {
+    display: flex;
+    background-image: url('/images/background.png');
+    background-repeat: repeat;
+    background-size: cover;
+    align-items: center;
+    justify-content: space-between;
+}
+.categories .content .left{
+    padding-left: 70px;
+}
+.categories .content div{
+    display: flex;
+    gap: 20px;
+    width: 80.23%;
+}
+.categories .content .right{
+    padding-right: 70px;
+}

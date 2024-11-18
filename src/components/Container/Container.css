@@ -1,0 +1,73 @@
+.container{
+    padding-top: 131px;
+    display: flex;
+    color: #ffffff;
+    justify-content: space-between;
+    background-color: #142941;
+}
+.container p{
+    font-family: "Poppins", sans-serif;
+}
+.container .three{
+    background-color: #354C66;
+    height: 130px;
+    width: 32.65%;
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    gap: 20px;
+
+}
+.container .three .top{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.container .three .top h1{
+    font-family: "Poppins", sans-serif;
+    color: #D9ECFF;
+}
+.container .three .bottom{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 43px;
+}
+.container .three .bottom p{
+    color: #D9ECFF;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+.container .three .bottom .star{
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+.container .three .bottom .star p{
+    color: #D9ECFF;
+    font-size: 25px;
+    font-weight: 700;
+}
+.container .gray{
+    height: 130px;
+    width: 16.837%;
+    background-color: #354C66;
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items: center;
+}
+.container .gray p , .container .green p{
+    font-size: 18px;
+    font-weight: 500;
+    color: #D9ECFF;
+}
+.container .green{
+    height: 130px;
+    width: 16.837%;
+    background-color: #21B573;
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items: center;
+}

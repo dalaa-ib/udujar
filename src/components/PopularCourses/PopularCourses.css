@@ -1,0 +1,60 @@
+.PopularCourses{
+    padding: 0 70px;
+    background-color: #142941;
+}
+.PopularCourses .top{
+    padding-bottom: 56px;
+}
+.PopularCourses .top h1{
+    color: white;
+    font-size: 42px;
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+.PopularCourses .top .info{
+    display: flex;
+    justify-content: space-between;
+}
+.PopularCourses .top .info p {
+    color: #D9ECFF;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+.PopularCourses .top .info .arrows{
+    display: flex;
+    gap: 10px;
+}
+.PopularCourses .top .info .arrows div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #364C65;
+}
+.PopularCourses .bottom{
+    display: grid;
+    grid-template-columns: 31.8% 31.8% 31.8%;
+    column-gap: 28px;
+    row-gap: 28px;
+    padding-bottom: 56px;
+}
+.PopularCourses .explore{
+    padding-bottom: 152px;
+    display: flex;
+    justify-content: center;
+}
+.PopularCourses .explore button{
+    width: 200px;
+    height: 60px;
+    background: none;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+    border: 1px solid #FFFFFF;
+    border-radius: 38px;
+    /* cursor: pointer; */
+}

@@ -1,0 +1,18 @@
+.logos{
+    padding: 0 70px;
+    background-color: #142941;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 94px;
+}
+.logos .images{
+    display: flex;
+    align-items: center;
+    gap: 56px;
+}
+.logos .images div{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}

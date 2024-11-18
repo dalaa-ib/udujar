@@ -1,0 +1,85 @@
+footer {
+    padding: 0 70px 62px 70px;
+    background-color: #142941;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer .logo {
+    font-size: 30px;
+    color: #fff;
+    cursor: pointer;
+    padding-bottom: 24px;
+}
+
+footer .logo span {
+    color: #21B573;
+}
+
+footer .info {
+    max-width: 361px;
+    font-size: 16px;
+    line-height: 30px;
+    color: #D9ECFF;
+    font-family: "Poppins", sans-serif;
+    padding-bottom: 24px;
+}
+
+footer .copyright {
+    font-family: "Poppins", sans-serif;
+    padding-top: 24px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 40px;
+    color: #D9ECFF;
+}
+
+footer .copyright span {
+    color: #FAB437;
+}
+footer .label{
+    font-size: 25px;
+    font-weight: 700;
+    color: #FFFFFF;
+    line-height: 28px;
+    padding-bottom: 24px;
+}
+footer ul{
+    list-style: none;
+}
+footer ul li{
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 35px;
+    color: #D9ECFF;
+}
+
+footer input{
+    width: 283px;
+    display: block;
+    border: none;
+    background: none;
+    border-bottom: 1px solid #E1EFFF80;
+    padding-bottom: 10px;
+}
+footer input::placeholder{
+    font-family: "Poppins", sans-serif;
+    color: #D9ECFF;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 40px;
+}
+footer button{
+    font-family: "Poppins", sans-serif;
+    margin-top: 24px;
+    width: 176px;
+    height:40px ;
+    border-radius: 30px;
+    background-color: #21B573;
+    font-size: 16px;
+    font-weight: 500;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+}

@@ -1,0 +1,46 @@
+.client{
+    padding: 0 70px;
+    background-color: #142941;
+    padding-bottom: 94px;
+}
+.client .bg{
+    background-image: url("/images/bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 65px 55px;
+    text-align: center;
+}
+.client .bg h1{
+    color: #FFFFFF;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 80px;
+    padding-bottom: 40px;
+}
+.client .bg .logo6{
+    padding-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 7px;
+}
+.client .bg .info{
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    line-height: 40px;
+    color: #FFFFFF;
+    padding-bottom: 40px;
+}
+.client .bg .name{
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 28px;
+    color: #FFFFFF;
+    padding-bottom: 40px;
+}
+.client .bg .clients{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 35px;
+}
