@@ -7,7 +7,7 @@ export default function Lesson({number,p1,label,image,color}) {
                 <div className='top2'>
                     <div className='numberOfLesson'>
                         <div className="polygon" style={{background: `${color}`}}>
-                            <img src="/images/polygon.svg" alt="" />
+                            <img src="/udujar/images/polygon.svg" alt="" />
                         </div>
                         <p className='number'>{number}</p>
                     </div>

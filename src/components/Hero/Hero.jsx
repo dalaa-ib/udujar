@@ -4,7 +4,7 @@ export default function Hero() {
     return (
         <div className='hero'>
             <div>
-                <img src="/images/image1.png" alt="" />
+                <img src="/udujar/images/image1.png" alt="" />
             </div>
             <div className='info'>
                 <h1>Learn with us anywhere with the best <span>experts</span> </h1>
@@ -15,7 +15,7 @@ export default function Hero() {
                 </div>
             </div>
             <div>
-                <img src="/images/image2.png" alt="" />
+                <img src="/udujar/images/image2.png" alt="" />
             </div>
         </div>
     )

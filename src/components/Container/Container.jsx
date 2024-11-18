@@ -13,7 +13,7 @@ export default function Container() {
             </div>
             <div className='three'>
                 <div className='top'>
-                    <img src="/images/star1.png" alt="" />
+                    <img src="/udujar/images/star1.png" alt="" />
                     <h1>Trustpilot</h1>
                 </div>
                 <div className='bottom'>
@@ -22,7 +22,7 @@ export default function Container() {
                     </div>
                     <div className='star'>
                         <p>4.9</p>
-                        <img src="./images/star2.png" alt="" />
+                        <img src="/udujar/images/star2.png" alt="" />
                     </div>
                 </div>
             </div>
